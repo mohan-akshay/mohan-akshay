@@ -19,7 +19,7 @@
 | **[Smart Inhaler for Asthma Monitoring](https://github.com/mohan-akshay/Smart_Inhaler)** | Built a connected inhaler prototype to track usage and environmental conditions. Received innovation funding from IEI and CERD  | Embedded Systems, Sensors |
 | **[Healthcare KPI Dashboards](https://github.com/mohan-akshay/Healthcare_KPI)** | Created operational dashboards to monitor clinical and business KPIs. Used by leadership for faster, data-driven decisions  | Power BI, SQL, Excel |
 | **[Walmart sales analysis](https://github.com/mohan-akshay/EDA_on_walmart_dataset)** | An end-to-end project analyzing Walmart sales data using MySQL and Python for insights and visualizations. | Python, MySQL, Jupyter-Notebook |
-| **[Patient Workflow Automation](https://github.com/mohan-akshay/patiant_workflow)** | Digitized patient intake, feedback, and appointment tracking, improving coordination and cutting manual workload  | Python, Excel |
+| **[Patient Workflow Automation](https://github.com/mohan-akshay/patiant_workflow)** | Digitized patient intake, feedback, and appointment tracking, improving coordination and cutting manual workload  | Python, Excel, Google Form and sheets |
 | **[Employee Data Analysis](https://github.com/Akshaymohan7/Employee-Data-Analysis)** | Data exploration using SQL  | SQL, Excel, Xampp |
 | **[Marketing ROI Analysis](https://github.com/mohan-akshay/Marketing_ROI)** | Analyzed multi-channel marketing campaigns to identify high-performing platforms and optimize budget allocation  | SQL, Excel |
 | **[House Price Prediction](https://github.com/Akshaymohan7/House-Price-Prediction-Linear-Regression)** | Basic house price prediction model using ML | Python, Jupyter Notebook |
