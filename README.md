@@ -36,11 +36,11 @@
 
 | Project | Concepts | Key Achievements | 
 |---------|----------|------------------|
-| [Core Services Sandbox](https://github.com/mohan-akshay/01_Azure_project) | **Resource Groups, Linux VM, Blob Storage, NSGs** | Deployed cost-optimized VM (B1s), blocked HTTP traffic via NSG rules, managed storage lifecycle |
-| [Cost Monitoring & Tagging](https://github.com/mohan-akshay/02_Cost_monitoring) | **Cost Management, Tagging, Budget Alerts** | Implemented resource tagging strategy, set $0.01 budget alerts, generated cost reports |
-| [Azure AD Identity Protection](https://github.com/mohan-akshay/03_AD_ID_protection) | **Azure AD, MFA, Conditional Access** | Enforced region-based access policies, configured MFA, analyzed sign-in logs |
-| [Static Website Hosting](https://github.com/mohan-akshay/04_static_web_host) | **Blob Storage, Static Sites, PaaS** | Hosted serverless HTML site using Azure Storage $web container |
-| [Basic Monitoring & Alerts](https://github.com/mohan-akshay/05_VM_monitoring) | **Azure Monitor, Metrics, Action Groups** | Created CPU threshold alerts, simulated load with stress-ng, validated notifications |
+| **[Core Services Sandbox](https://github.com/mohan-akshay/01_Azure_project)** | **Resource Groups, Linux VM, Blob Storage, NSGs** | Deployed cost-optimized VM (B1s), blocked HTTP traffic via NSG rules, managed storage lifecycle |
+| **[Cost Monitoring & Tagging](https://github.com/mohan-akshay/02_Cost_monitoring)** | **Cost Management, Tagging, Budget Alerts** | Implemented resource tagging strategy, set $0.01 budget alerts, generated cost reports |
+| **[Azure AD Identity Protection](https://github.com/mohan-akshay/03_AD_ID_protection)** | **Azure AD, MFA, Conditional Access** | Enforced region-based access policies, configured MFA, analyzed sign-in logs |
+| **[Static Website Hosting](https://github.com/mohan-akshay/04_static_web_host)** | **Blob Storage, Static Sites, PaaS** | Hosted serverless HTML site using Azure Storage $web container |
+| **[Basic Monitoring & Alerts](https://github.com/mohan-akshay/05_VM_monitoring)** | **Azure Monitor, Metrics, Action Groups** | Created CPU threshold alerts, simulated load with stress-ng, validated notifications |
 | **[Azure Static Website with CI/CD](https://github.com/mohan-akshay/06_azure_static_CICD)** | Azure Static Web Apps, GitHub Repository, GitHub Actions (CI/CD Pipeline) | Hosted a modern static website using Azure Static Web Apps with CI/CD from GitHub, enabling content delivery, HTTPS, and auto-deployment on every commit |
 
 
@@ -91,7 +91,7 @@
 ---
 
 ### 💼 Professional Experience
-**Digital Transformation Analyst** @ Agasthya Bharatha (Remote)  | `Dec 2023 - Jun 2025`  
+**Data Analyst (Digital Transformation)** @ Agasthya Bharatha (Remote)  | `Dec 2023 - Jun 2025`  
 
 **Application Support Engineer**   @ Tutorcomp                   | `Nov 2021 - Aug 2022`  
 
