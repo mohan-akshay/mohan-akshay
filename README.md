@@ -1,10 +1,16 @@
 <h1 align="center">Hi, I'm Akshay Mohan! 👋</h1>
-<h3 align="center">Data & Cloud Solutions Specialist | Power BI Expert | Azure Certified (AZ-900)</h3>
+  <h3 align="center">Data & Cloud Solutions Specialist | Power BI Expert | Azure Certified (AZ-900)</h3>
+
+<p align="center">
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AkshayMohan-3408/7F0E6F19ADC2931D?sharingId=CF7CEB442AB3A537">
+    <img src="https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" alt="AZ-900"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohanakshay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 
 </p>
 
